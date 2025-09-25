@@ -1,119 +1,104 @@
-# 👋 Hi, I'm Gitesh Gokul Patil
+👋 Hi, I'm Gitesh Patil!
+I'm a Java Developer passionate about building efficient backend applications and solving complex problems. I have hands-on experience with the Spring Boot framework and a strong foundation in Object-Oriented Programming and Data Structures. 
 
-🎓 Engineering Student | 💻 Full Stack Web Developer  
-🌐 Skilled in building responsive frontends and robust backends  
-⚡ Currently exploring DevOps & scalable architectures
+🎓 Studying B.Tech in Information Technology at DBATU University. 
 
----
+🌱 I love learning new tools and technologies to create high-quality software solutions. 
 
-## 🧠 About Me
+💡 Actively participated in national-level innovation bootcamps with AICTE & MoE. 
 
-- 🔍 Passionate about solving real-world problems through code  
-- 🧩 Love creating full-stack web applications with seamless user experiences  
-- 🛠️ Focused on clean code, performance, and usability  
-- 🌱 Constantly learning and evolving with the latest technologies  
+<p align="left">
+<a href="https://www.linkedin.com/in/gitesh-patil-472101288/" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Gitesh Patil LinkedIn"/>
+</a>
+<a href="mailto:giteshpatil29052005@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gitesh Patil Email"/>
+</a>
+</p>
 
----
-
-## 🛠️ Skills & Technologies
-
+🛠️ My Tech Stack
 <table>
-  <tr>
-    <th colspan="2">🌐 Front-End</th>
-    <th colspan="2">🧠 Back-End</th>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" /></td>
-    <td><img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" /></td>
-    <td><img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square" /></td>
-    <td><img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=flat-square" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" /></td>
-    <td><img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square" /></td>
-    <td><img src="https://img.shields.io/badge/REST_API-FF6F00?style=flat-square" /></td>
-    <td><img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square" /></td>
-    <td colspan="3"></td>
-  </tr>
+<tr>
+<td valign="top" width="50%">
+<strong>Languages</strong>
+
+
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+</td>
+<td valign="top" width="50%">
+<strong>Backend Development</strong>
+
+
+
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+<img src="https://img.shields.io/badge/REST_APIs-0277BD?style=for-the-badge&logo=api-platform&logoColor=white" alt="REST APIs"/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+<strong>Frontend Development</strong>
+
+
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+</td>
+<td valign="top" width="50%">
+<strong>Databases</strong>
+
+
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+</td>
+</tr>
+<tr>
+<td valign="top" colspan="2">
+<strong>Tools & Platforms</strong>
+
+
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+</td>
+</tr>
 </table>
 
-<br/>
+💻 Featured Projects
+🤖 Smart Email Assistant
+An AI-powered application built with 
 
-<table>
-  <tr>
-    <th colspan="2">💾 Databases</th>
-    <th colspan="2">🧰 Tools & IDEs</th>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square" /></td>
-    <td><img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" /></td>
-    <td><img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square" /></td>
-    <td><img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat-square" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square" /></td>
-    <td></td>
-    <td><img src="https://img.shields.io/badge/Arduino_IDE-00979D?logo=arduino&logoColor=white&style=flat-square" /></td>
-    <td><img src="https://img.shields.io/badge/IntelliJ-000000?logo=intellijidea&logoColor=white&style=flat-square" /></td>
-  </tr>
-</table>
+Spring Boot and Spring AI to enhance email productivity. It automatically classifies, prioritizes, and suggests responses to emails by leveraging NLP and machine learning. 
 
-<br/>
 
-<table>
-  <tr>
-    <th colspan="4">🧮 Programming Languages</th>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat-square" /></td>
-    <td><img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square" /></td>
-    <td><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" /></td>
-    <td></td>
-  </tr>
-</table>
+🚗 Vehicle Rental System
+A web application sponsored by 
 
----
+Thakare Rental Agency to streamline the vehicle rental process. It provides a user-friendly platform for customers to browse, reserve, and manage bookings, and an admin panel for managing inventory. 
 
-## 💻 Projects
 
-### 🚗 Vehicle Rental System  
-🗓️ March 2025 – May 2025  
-💼 Sponsored by *Thakare Rental Agency*  
-🔗 [GitHub Repo](https://github.com/Pavanrajpatil123/bike-rental-system)
 
-> A responsive platform that allows users to browse, book, and manage vehicle rentals, while providing owners with tools to list and monitor their vehicles.
 
-**Features:**
-- 👤 User dashboard for searching and booking vehicles  
-- 🔐 Admin panel for managing listings, users, and bookings  
-- 💳 Payment and booking confirmation integration  
-- 🔧 Tech Stack: HTML, CSS, JS, Node.js, MySQL
+Tech Stack: HTML, CSS, JavaScript, Node.js, and SQL. 
 
----
+💼 Professional Experience
+Smart Logic Technology | Pune, India
 
-### 💱 Currency Converter (Java Console App)  
-A console-based Java application to convert currency amounts between USD, INR, EUR, and GBP.
+(September 2023 – November 2023)
 
-**Highlights:**
-- Real-time input and exchange rate simulation  
-- Modular, beginner-friendly code  
-- Core Java (OOP + control structures)
+Developed automation scripts using 
 
----
+Python and integrated systems with Arduino. 
 
-## 💼 Internship Experience
-
-### 🏢 SMART LOGIC TECHNOLOGY  
-📍 Pune, India  
-🗓️ Sept 2023 – Nov 2023  
-**Technologies:** Python • Arduino • Java • C++
-
-- 🔧 Developed automation scripts and embedded systems  
-- 📱 Built mobile apps for hardware–software integration  
-- 🤝 Gained experience in agile teamwork, debugging, and prototyping
+Focused on enhancing device control and improving the efficiency of data acquisition processes.
 
 ---
 
